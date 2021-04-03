@@ -16,3 +16,14 @@
 .food-cell {
     background-color: orangered;
 }
+.cell-green {
+    background-color: green;
+  }
+  
+  .cell-red {
+    background-color: red;
+  }
+  
+  .cell-purple {
+    background-color: purple;
+  }
